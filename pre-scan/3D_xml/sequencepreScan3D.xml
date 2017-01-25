@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+  <image_file_name>Image_%04d.pgm</image_file_name>
+  <image_type>prescan</image_type>
+  <scanline_pitch>0.010625</scanline_pitch>
+  <probe_radius>0.0398</probe_radius>
+  <is_probe_convex>1</is_probe_convex>
+  <axial_resolution>0.000308</axial_resolution>
+  <frame_pitch>0.0255342</frame_pitch>
+  <motor_radius>0.02725</motor_radius>
+  <motor_type>tilting_motor</motor_type>
+  <sequence_frame_rate>15.000000</sequence_frame_rate>
+  <sequence_start_number>0</sequence_start_number>
+  <sequence_stop_number>5</sequence_stop_number>
+</config>

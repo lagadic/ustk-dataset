@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <image_file_name>%05d.png</image_file_name>
+  <image_type>postscan</image_type>
+  <scanline_pitch>0.004500</scanline_pitch>
+  <probe_radius>0.054780</probe_radius>
+  <is_probe_convex>1</is_probe_convex>
+  <height_resolution>0.000500</height_resolution>
+  <width_resolution>0.000500</width_resolution>
+  <sequence_frame_rate>15.000000</sequence_frame_rate>
+  <sequence_start_number>150</sequence_start_number>
+  <sequence_stop_number>534</sequence_stop_number>
+</config>
