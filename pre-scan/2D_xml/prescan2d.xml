@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <image_file_name>prescan2d.png</image_file_name>
+  <image_type>prescan</image_type>
+  <scanline_pitch>0.010625</scanline_pitch>
+  <probe_radius>0.0398</probe_radius>
+  <axial_resolution>0.0003125</axial_resolution>
+  <is_probe_convex>1</is_probe_convex>
+</config>
