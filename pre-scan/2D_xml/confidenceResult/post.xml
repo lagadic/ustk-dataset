@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <image_file_name>post.png</image_file_name>
+  <image_type>postscan</image_type>
+  <scanline_pitch>0.010625</scanline_pitch>
+  <probe_radius>0.039800</probe_radius>
+  <is_probe_convex>1</is_probe_convex>
+  <scanline_number>128</scanline_number>
+  <transmit_frequency>0.000000</transmit_frequency>
+  <sampling_frequency>0.000000</sampling_frequency>
+  <height_resolution>0.000313</height_resolution>
+  <width_resolution>0.000313</width_resolution>
+</config>
