@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <config>
-  <image_file_name>prescan2d.png</image_file_name>
+  <image_file_name>confidencePreScan.png</image_file_name>
   <image_type>prescan</image_type>
   <scanline_pitch>0.010625</scanline_pitch>
   <probe_radius>0.039800</probe_radius>
